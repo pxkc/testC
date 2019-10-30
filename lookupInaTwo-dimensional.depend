@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1572450608 source:d:\workspace\c++\offer\lookupinatwo-dimensional\main.cpp
+	<iostream>
+	<vector>
+	<testClass.h>
+
+1572449439 source:d:\workspace\c++\offer\lookupinatwo-dimensional\maintest.cpp
+	<iostream>
+	<vector>
+
+1572450446 d:\workspace\c++\offer\lookupinatwo-dimensional\include\testclass.h
+	<vector>
+
+1572450377 source:d:\workspace\c++\offer\lookupinatwo-dimensional\src\testclass.cpp
+	"testClass.h"
+
